@@ -168,29 +168,44 @@ El script escribe el índice parcial/total en index.json tras cada página proce
 }
 ```
 
-## 💰 Financiación
+## 💰 Funding
 
-Este trabajo está financiado por el Ministerio para la Transformación Digital y de la Función Pública, cofinanciado por la UE – NextGenerationEU, en el marco del proyecto Desarrollo de Modelos ALIA.
+This resource is funded by the *Ministerio para la Transformación Digital y de la Función Pública* — Funded by **EU – NextGenerationEU**, within the framework of the project *Desarrollo de Modelos ALIA*.
 
-## 🙏 Agradecimientos
+## 🙏 Acknowledgments
 
-Queremos expresar nuestra gratitud a todas las personas e instituciones que han contribuido al desarrollo de este trabajo.
+We extend our gratitude to all individuals and institutions that contributed to the development of this resource.
 
-Agradecimientos especiales a:
+Special thanks to:
 
-- [Proveedores de datos]
+- [Data providers]  
+- [Technological support providers]
 
-- [Proveedores de soporte tecnológico]
+We also acknowledge the financial, scientific, and technical contributions of the *Ministerio para la Transformación Digital y de la Función Pública – Funded by EU – NextGenerationEU* within the framework of the *Desarrollo de Modelos ALIA* project.
 
-También reconocemos el apoyo financiero, técnico y científico del Ministerio para la Transformación Digital y de la Función Pública — Financiado por la UE – NextGenerationEU dentro del marco del proyecto Desarrollo de Modelos ALIA.
+## 📚 Reference
 
-## ⚠️ Aviso legal
+Please cite this dataset using the following BibTeX entry:
 
-Tenga en cuenta que los datos pueden contener sesgos u otras distorsiones no deseadas. Cuando terceros desplieguen sistemas o presten servicios basados en estos datos, o los utilicen directamente, serán responsables de mitigar los riesgos asociados y de garantizar el cumplimiento de la normativa aplicable, incluida aquella relacionada con el uso de la Inteligencia Artificial.
+```bibtex
+@misc{uji_parallel_va_en_2025,
+  author       = {Espinosa Zaragoza, Sergio and Sep{\'u}lveda Torres, Robiert and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo}, <-- ACTUALIZAR
+  title        = {ALIA_BOUA Scraper}, 
+  year         = {2025},
+  institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
+  howpublished = {\url{https://huggingface.co/datasets/gplsi/uji_parallel_va_es}} <-- ACTUALIZAR
+}
+```
 
-La Universidad de Alicante, como propietaria y creadora del conjunto de datos, no será responsable de los resultados derivados del uso por parte de terceros.
+## ⚠️ Disclaimer
 
-## 📜 Licencia
+This resource may contain biases or unintended artifacts.
+Any third party using or deploying systems based on this resource is solely responsible for ensuring compliant, safe, and ethical use, including adherence to relevant AI and data protection regulations.
 
-Apache License, Version 2.0
+The University of Alicante, as creator and owner of the resource, assumes no liability for outcomes resulting from third-party use.
+
+## 📜 License
+
+[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
 
