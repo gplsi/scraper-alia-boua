@@ -188,13 +188,15 @@ Asimismo, reconocemos las contribuciones financieras, científicas y técnicas d
 
 Por favor, cita este conjunto de datos usando la siguiente entrada BibTeX:
 
+```
 @misc{uji_parallel_va_en_2025,
   author       = {Espinosa Zaragoza, Sergio and Sep{\'u}lveda Torres, Robiert and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo},
   title        = {ALIA_BOUA Scraper}, 
   year         = {2025},
   institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
-  howpublished = {\url{https://huggingface.co/datasets/gplsi/uji_parallel_va_es}} <-- ACTUALIZAR
+  howpublished = {\url{https://github.com/gplsi/scraper-alia-boua}}
 }
+```
 
 ## ⚠️ Aviso Legal
 
