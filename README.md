@@ -168,44 +168,43 @@ El script escribe el índice parcial/total en index.json tras cada página proce
 }
 ```
 
-## 💰 Funding
+## 💰 Financiación
 
-This resource is funded by the *Ministerio para la Transformación Digital y de la Función Pública* — Funded by **EU – NextGenerationEU**, within the framework of the project *Desarrollo de Modelos ALIA*.
+Este recurso está financiado por el Ministerio para la Transformación Digital y de la Función Pública — Financiado por la UE – NextGenerationEU, en el marco del proyecto Desarrollo de Modelos ALIA.
 
-## 🙏 Acknowledgments
+## 🙏 Agradecimientos
 
-We extend our gratitude to all individuals and institutions that contributed to the development of this resource.
+Expresamos nuestro agradecimiento a todas las personas e instituciones que han contribuido al desarrollo de este recurso.
 
-Special thanks to:
+Agradecimientos especiales a:
 
-- [Data providers]  
-- [Technological support providers]
+[Proveedores de datos]
 
-We also acknowledge the financial, scientific, and technical contributions of the *Ministerio para la Transformación Digital y de la Función Pública – Funded by EU – NextGenerationEU* within the framework of the *Desarrollo de Modelos ALIA* project.
+[Proveedores de soporte tecnológico]
 
-## 📚 Reference
+Asimismo, reconocemos las contribuciones financieras, científicas y técnicas del Ministerio para la Transformación Digital y de la Función Pública – Financiado por la UE – NextGenerationEU dentro del marco del proyecto Desarrollo de Modelos ALIA.
 
-Please cite this dataset using the following BibTeX entry:
+## 📚 Referencia
 
-```bibtex
+Por favor, cita este conjunto de datos usando la siguiente entrada BibTeX:
+
 @misc{uji_parallel_va_en_2025,
-  author       = {Espinosa Zaragoza, Sergio and Sep{\'u}lveda Torres, Robiert and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo}, <-- ACTUALIZAR
+  author       = {Espinosa Zaragoza, Sergio and Sep{\'u}lveda Torres, Robiert and Mu{\~n}oz Guillena, Rafael and Consuegra-Ayala, Juan Pablo},
   title        = {ALIA_BOUA Scraper}, 
   year         = {2025},
   institution  = {Language and Information Systems Group (GPLSI) and Centro de Inteligencia Digital (CENID), University of Alicante (UA)},
   howpublished = {\url{https://huggingface.co/datasets/gplsi/uji_parallel_va_es}} <-- ACTUALIZAR
 }
-```
 
-## ⚠️ Disclaimer
+## ⚠️ Aviso Legal
 
-This resource may contain biases or unintended artifacts.
-Any third party using or deploying systems based on this resource is solely responsible for ensuring compliant, safe, and ethical use, including adherence to relevant AI and data protection regulations.
+Este recurso puede contener sesgos o artefactos no intencionados.
+Cualquier tercero que utilice o implemente sistemas basados en este recurso es el único responsable de garantizar un uso conforme, seguro y ético, incluyendo el cumplimiento de las normativas relevantes en materia de IA y protección de datos.
 
-The University of Alicante, as creator and owner of the resource, assumes no liability for outcomes resulting from third-party use.
+La Universidad de Alicante, como creadora y propietaria del recurso, no asume ninguna responsabilidad por los resultados derivados del uso por parte de terceros.
 
-## 📜 License
+## 📜 Licencia
 
-[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+Licencia Apache, Versión 2.0
 
 
